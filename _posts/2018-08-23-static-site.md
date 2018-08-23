@@ -1,7 +1,7 @@
 ---
 title: My Static Site Setup
+author: Ian Philpot
 layout: post
-permalink: /static-site
 ---
 
 My setup is pretty simple. <!-- more -->
